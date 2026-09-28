@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Sambitz234 🌊 
+# Hi, I’m @Sambitz234 🌊 
 
 ## About Me
 
