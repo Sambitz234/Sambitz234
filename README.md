@@ -14,6 +14,7 @@ I like exploring how AI can solve real-world problems and enhance everyday life.
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL-orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C-darkgray">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-darkorange">
 
 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-lightblue">
