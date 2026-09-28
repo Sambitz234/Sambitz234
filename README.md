@@ -10,9 +10,9 @@ I like exploring how AI can solve real-world problems and enhance everyday life.
 
 <p align="center">
   <!-- Replace or remove badges as needed -->
-  <img src="https://img.shields.io/badge/Skill1-Color?logo=tool&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill2-Color?logo=tool&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill3-Color?logo=tool&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Color?logo=tool&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-Color?logo=tool&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Color?logo=tool&logoColor=white" />
 </p>
 
 
