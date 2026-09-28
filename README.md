@@ -27,7 +27,7 @@ I like exploring how AI can solve real-world problems and enhance everyday life.
 
 ## What I'm Working On
 
-<img width="400" height="717" alt="backitgif" src="https://github.com/user-attachments/assets/3d4cc349-ce4f-4e58-99e9-7a85bdc97ee7" />
+<img width="200" height="500" alt="backitgif" src="https://github.com/user-attachments/assets/3d4cc349-ce4f-4e58-99e9-7a85bdc97ee7" />
 
 
 <!---
