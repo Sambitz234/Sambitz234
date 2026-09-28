@@ -9,9 +9,20 @@ I like exploring how AI can solve real-world problems and enhance everyday life.
 ## Tech & Tools
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow">
-  <img src="https://img.shields.io/badge/C-Color?logo=tool&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Git-lightblue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-violet">
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL-orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-darkgray">
+
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-lightblue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Supabase-lightgreen">
+
+
+
 
 
 </p>
