@@ -22,12 +22,12 @@ I like exploring how AI can solve real-world problems and enhance everyday life.
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-grey">
   <img alt="Static Badge" src="https://img.shields.io/badge/Supabase-lightgreen">
 
-
-
-
-
 </p>
 
+
+## What I'm Working On
+
+<img width="400" height="717" alt="backitgif" src="https://github.com/user-attachments/assets/3d4cc349-ce4f-4e58-99e9-7a85bdc97ee7" />
 
 
 <!---
