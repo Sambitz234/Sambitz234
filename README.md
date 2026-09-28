@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Sambitz234
-- 👀 I’m interested in Computer programing
+# 👋 Hi, I’m @Sambitz234
+
+## About Me
+- 👀 I’m interested in AI & ML Engineering
 - 🌱 I’m currently learning and begining my conputer and coding journey
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me arielo_moreira@hotmail.com
