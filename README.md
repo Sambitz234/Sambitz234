@@ -37,6 +37,12 @@ Check it out here: https://backit.live <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Follow%20us%20on-X-black?style=flat&logoColor=violet&link=https%3A%2F%2Fwww.instagram.com%2Fbackitmarkets%3Fstkn%3DY2JpM3Rwa2NvMmR2">
 
 
+<a href="https://www.instagram.com/backitmarkets?stkn=Y2JpM3Rwa2NvMmR2" target="_blank">
+  <img alt="Static Badge" src="https://shields.io">
+</a>
+
+
+
 
 
 
