@@ -33,7 +33,7 @@ I like exploring how AI can solve real-world problems and enhance everyday life.
 </p>
 Check it out here: <br>
 https://backit.live <br>
-<br>
+
 <img alt="Static Badge" src="https://img.shields.io/badge/Follow%20us%20on-Instagram-violet?style=flat&logoColor=violet&link=https%3A%2F%2Fwww.instagram.com%2Fbackitmarkets%3Fstkn%3DY2JpM3Rwa2NvMmR2"> <br> https://www.instagram.com/backitmarkets?stkn=Y2JpM3Rwa2NvMmR2 <br>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Follow%20us%20on-X-black?style=flat&logoColor=violet&link=https%3A%2F%2Fwww.instagram.com%2Fbackitmarkets%3Fstkn%3DY2JpM3Rwa2NvMmR2"> <br> https://x.com/BackItMarkets <br>
