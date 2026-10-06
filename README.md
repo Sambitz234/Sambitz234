@@ -26,11 +26,11 @@ I like exploring how AI can solve real-world problems and enhance everyday life.
 
 
 ## What I'm Working On
-
+<p align="center">
 <img width="260" height="400" alt="IMG_0982 2" src="https://github.com/user-attachments/assets/7f7af1c3-23ad-4c3d-8f8f-0bebcfb26478" />
 <img width="260" height="400" alt="IMG_0983" src="https://github.com/user-attachments/assets/38056b01-bf5d-4fcb-b832-a7e040104875" />
 <img width="260" height="400" alt="backitgif" src="https://github.com/user-attachments/assets/3d4cc349-ce4f-4e58-99e9-7a85bdc97ee7" />
-
+</p>
 Check it out here: <br>
 https://backit.live <br>
 
