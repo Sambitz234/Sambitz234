@@ -6,7 +6,8 @@ I’m Arielo, a Computer Science and Artificial Intelligence student with a pass
 
 I like exploring how AI can solve real-world problems and enhance everyday life. Beyond tech, I’m a student-athlete who values discipline, teamwork, and perseverance. Fluent in English and Spanish, I’m eager to connect with others who share a passion for AI, data, and innovation.
 
-![Uploading 30huqc5ujgaa1.gif…]()
+<img width="600" height="150" alt="30huqc5ujgaa1" src="https://github.com/user-attachments/assets/80f90d9e-d8c4-47bd-9976-146d017a79aa" />
+
 
 
 ## Tech & Tools
