@@ -1,4 +1,5 @@
-# Hi, I’m @Sambitz234 🌊 <img width="900" height="90" alt="30huqc5ujgaa1" src="https://github.com/user-attachments/assets/80f90d9e-d8c4-47bd-9976-146d017a79aa" />
+<img width="700" height="110" alt="30huqc5ujgaa1" src="https://github.com/user-attachments/assets/80f90d9e-d8c4-47bd-9976-146d017a79aa" />
+# Hi, I’m @Sambitz234 🌊
 
 
 ## About Me
