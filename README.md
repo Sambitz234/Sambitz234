@@ -1,14 +1,11 @@
-# Hi, I’m @Sambitz234 🌊 
+# Hi, I’m @Sambitz234 🌊 <img width="900" height="90" alt="30huqc5ujgaa1" src="https://github.com/user-attachments/assets/80f90d9e-d8c4-47bd-9976-146d017a79aa" />
+
 
 ## About Me
 
 I’m Arielo, a Computer Science and Artificial Intelligence student with a passion for technology, data, and machine learning. My journey from Ecuador to the US, and from Saudi Arabia to Dubai, has shaped my global perspective and drive to innovate.
 
 I like exploring how AI can solve real-world problems and enhance everyday life. Beyond tech, I’m a student-athlete who values discipline, teamwork, and perseverance. Fluent in English and Spanish, I’m eager to connect with others who share a passion for AI, data, and innovation.
-
-<img width="600" height="150" alt="30huqc5ujgaa1" src="https://github.com/user-attachments/assets/80f90d9e-d8c4-47bd-9976-146d017a79aa" />
-
-
 
 ## Tech & Tools
 <p align="center">
